@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+  ============
+  
+  Hello,
+  I'm Daniel and I'm learning how to use github.
